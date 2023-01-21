@@ -1,0 +1,1 @@
+(()=>{"use strict";(()=>{const e=document.querySelector(".navbar-toggler"),t=document.querySelector(".navbar-collapse");e.addEventListener("click",(()=>{t.classList.toggle("collapse")}))})()})();
